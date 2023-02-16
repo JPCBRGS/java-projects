@@ -1,2 +1,2 @@
 # Java_Studies
-Basic Java projects using NetBeans.
+This repository contains basic Java projects using NetBeans.
