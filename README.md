@@ -1,2 +1,2 @@
 # Java_Studies
-Basic Java code I made while studying this language (and also some simple Netbeans projects).
+Basic Java projects using NetBeans I created while studying this language.
