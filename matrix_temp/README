@@ -1,8 +1,1 @@
 Basic program I made while learning some NetBeans stuff. It converts given temperature in Celsius to other unities (Fahrenheit and Kelvin).
-
-
-> To use, just give the Celsius starting temperature, then the variation, and finally, the maximum degree value, also in Celsius and submit, it is very simple.
-> If you enter new values, old ones are automatically cleared.
-> Executable is inside the dist folder, called MatrixTemp.jar.
-> Entire project is disponible.
-> Made by me, João Pedro Clemente Borges.
